@@ -1,0 +1,56 @@
+[
+  {
+    "autor": "correo",
+    "msg": "mensaje",
+    "fyh": "2/8/2022, 2:49:34 PM",
+    "id": 1
+  },
+  {
+    "autor": "correo",
+    "msg": "hola",
+    "fyh": "2/8/2022, 2:50:35 PM",
+    "id": 2
+  },
+  {
+    "autor": "correo",
+    "msg": "como estas",
+    "fyh": "2/8/2022, 2:50:40 PM",
+    "id": 3
+  },
+  {
+    "autor": "Correo 2",
+    "msg": "Bieb",
+    "fyh": "2/8/2022, 2:51:05 PM",
+    "id": 4
+  },
+  {
+    "autor": "Correo 2",
+    "msg": "Y tu",
+    "fyh": "2/8/2022, 2:51:11 PM",
+    "id": 5
+  },
+  {
+    "autor": "correo",
+    "msg": "ahi vamos",
+    "fyh": "2/8/2022, 2:51:24 PM",
+    "id": 6
+  },
+  {
+    "autor": "otro sonso",
+    "msg": "babosos",
+    "fyh": "2/8/2022, 2:52:02 PM",
+    "id": 7
+  },
+  {
+    "autor": "otro sonso",
+    "msg": ":)",
+    "fyh": "2/8/2022, 2:52:29 PM",
+    "id": 8
+  },
+  {
+    "autor": "otro sonso",
+    "msg": ":P",
+    "fyh": "2/8/2022, 2:52:34 PM",
+    "id": 9
+  }
+]
